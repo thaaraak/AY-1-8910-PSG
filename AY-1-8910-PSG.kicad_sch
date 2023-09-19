@@ -922,6 +922,15 @@
     (uuid fff82e5a-bcce-46fd-91ea-dbfb23949de2)
   )
 
+  (text "Bus\nControl" (at 195.58 109.22 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 04f954fb-2952-4657-bab0-00e174ed23ff)
+  )
+  (text "Data Lines" (at 203.2 96.52 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bbd8aa5a-66dc-46b4-a5bc-da5dd40c6ce8)
+  )
+
   (global_label "A3" (shape input) (at 186.69 100.33 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 39c286a8-d6c3-4e1d-93d4-0a5bf18eaf3f)
